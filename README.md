@@ -31,10 +31,9 @@ Look at my [work experience](./about/work_experience.md).
 | :----: | :- | :-: | :- |
 | [![zenn-articles-logo]][zenn-href] [![zenn-books-logo]][zenn-books-href] | Nuxt, Vue@v3, Pinia, UnJS, Panda CSS, etc. | | Please give me thumbs up 💚 → [![zenn-likes-logo]][zenn-href] |
 | [![hatena-logo]][hatena-href] | Python, Next.js(<v12, page router), Docker, IoT, Raspberry Pi, Deep Learning, Edge AI, etc. | | Written on **hatenablog**. | 
-| [![sizu-logo]][sizu-href] | - | | ひとりごと | 
 | | | | | 
 | 📝 **Organization** | 💡 **Topics** | 🌎 **Lang (default: `In Japanese`)** | 📗 **Note** |
-| [![zenn-p-logo]][zenn-p-href] | Nuxt, Vue.js | | Publication of FeaSion Corporation (Owner) |
+| [![zenn-p-logo]][zenn-p-href] | Nuxt, Vue.js, GitHub Actions | | Publication of FeaSion Corporation (Owner) |
 | [![optim-logo]][optim-href] | AWS (CLI, ECR, Lambda, Corretto), GitLab, Vuetify@v2, Spring Boot, Rails, Jetpack Compose(Android), etc. | | ※ previous job ※ |
 
 Look at more this([/about/articles](./about/articles.md)).
