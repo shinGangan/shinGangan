@@ -12,7 +12,7 @@
 
 ### 🔍 Where to find me
 
-[![twitter-logo]][twitter-href] / [![zenn-logo]][zenn-href] / [![wt-logo]][wt-href] / [![lp-logo]][lp-href] / [![sd-logo]][sd-href] / [![sp-logo]][sp-href]
+[![twitter-logo]][twitter-href] / [![zenn-logo]][zenn-href] / [![wt-logo]][wt-href] / [![sd-logo]][sd-href] / [![sp-logo]][sp-href]
 
 ### 🔭 Work
 
@@ -68,9 +68,6 @@ Look at more this([/about/articles](./about/articles.md)).
 
 [wt-logo]: https://img.shields.io/badge/Wantedly-21bddb.svg?&style=flat&logo=wantedly&logoColor=white
 [wt-href]: https://www.wantedly.com/id/gangan_shimpei_iwam
-
-[lp-logo]: https://img.shields.io/badge/LAPRAS-0a5ed9.svg?&style=flat&logo=lapras&logoColor=white
-[lp-href]: https://lapras.com/public/gangan
 
 [sizu-logo]: https://img.shields.io/badge/Sizu-FFFFFF.svg?&style=flat&logo=sizu
 [sizu-href]: https://sizu.me/gangan_nikki
